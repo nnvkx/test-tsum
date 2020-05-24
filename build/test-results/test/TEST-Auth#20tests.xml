@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Auth tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-24T19:05:01" hostname="MAC-01116" time="10.138">
+  <properties/>
+  <testcase name="invalid password auth try" classname="Auth tests" time="10.138"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[мая 24, 2020 10:05:01 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 81.0.4044.138 (8c6c7ba89cc9453625af54f11fd83179e23450fa-refs/branch-heads/4044@{#999}) on port 6675
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+мая 24, 2020 10:05:02 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[1590347103.632][SEVERE]: Timed out receiving message from renderer: 0.100
+[1590347104.025][SEVERE]: Timed out receiving message from renderer: 0.100
+]]></system-err>
+</testsuite>

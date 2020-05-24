@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="I do something" skipped="0" tests="2" time="21.87" timestamp="2020-05-24 08:49:41"><testcase name="happy-path authorization on tsum"/><testcase name="Logout"/></testsuite>
