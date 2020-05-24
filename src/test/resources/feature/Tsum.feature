@@ -26,7 +26,7 @@ Feature: Auth tests
     And User go to personal page
     Then User click logout
 
-  Scenario: invalid password auth try
+  Scenario: user already exists registration try
     Given User go to Tsum login page
     And Click submit town
     And Switch to registration form
